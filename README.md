@@ -1,7 +1,7 @@
 # Daymark — Personal Tasks App
 
 <!-- GitHub Repository -->
-https://github.com/manishphuyalf25-lab/projectDaymark_react.git 
+
 
 
 
